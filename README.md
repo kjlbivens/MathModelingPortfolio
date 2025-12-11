@@ -18,7 +18,7 @@ I am a fourth-year mathematics major committed to making mathematics accessible,
 - Implemented numerical gradient descent and compared convergence to the true solutions  
 - Discussed the role of gradient descent in modern machine learning and artificial intelligence  
 
-**Report:** [Part A – Mathematical Modeling Report](Project%208-Part%20A.pdf)
+**Report:** [Part A – Mathematical Modeling Report](https://github.com/kjlbivens/MathModelingPortfolio/blob/main/Project%208-Part%20A.pdf)
 
 ---
 
@@ -32,8 +32,8 @@ I am a fourth-year mathematics major committed to making mathematics accessible,
 - Interpreted regression coefficients in operational language for logistics planning  
 - Built a Shiny app that calculates predicted fuel use from user inputs  
 
-**Report:** [Part B – Fuel Consumption Data Analysis Report](Project%208-Part%20B.pdf)  
-**Shiny App Code:** [app.R](app.R)
+**Report:** [Part B – Fuel Consumption Data Analysis Report](https://github.com/kjlbivens/MathModelingPortfolio/blob/main/Project%208-Part%20B.pdf)  
+**Shiny App Code:** [app.R](https://github.com/kjlbivens/MathModelingPortfolio/blob/main/app.R)
 
 ---
 
@@ -45,4 +45,4 @@ The repository includes R code for generating the following plots using syntheti
 - Distance traveled vs fuel consumed  
 - Average speed vs fuel consumed  
 
-See: `FuelConsumption.R`.
+**See:** [FuelConsumption.R](https://github.com/kjlbivens/MathModelingPortfolio/blob/main/FuelConsumption.R).
